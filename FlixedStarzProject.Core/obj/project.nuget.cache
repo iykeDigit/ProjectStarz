@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nz+yVGpmQ7ZOQeRCYAAvT7VQK/HNu9Fm1Vniid1EaUYmf32IzDRM49/0cSwGT0pPN7JeNOoEQqE0A1LpKbhgvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\MyProjects\\ProjectStarz\\FlixedStarzProject.Core\\FlixedStarzProject.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

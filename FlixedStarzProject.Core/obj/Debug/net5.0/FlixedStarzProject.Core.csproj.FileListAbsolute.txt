@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\FLIX Prep\FlixedStarzProject\FlixedStarzProject.Core\bin\Debug\net5.0\FlixedStarzProject.Core.deps.json
+C:\Users\hp\Desktop\FLIX Prep\FlixedStarzProject\FlixedStarzProject.Core\bin\Debug\net5.0\FlixedStarzProject.Core.dll
+C:\Users\hp\Desktop\FLIX Prep\FlixedStarzProject\FlixedStarzProject.Core\bin\Debug\net5.0\ref\FlixedStarzProject.Core.dll
+C:\Users\hp\Desktop\FLIX Prep\FlixedStarzProject\FlixedStarzProject.Core\bin\Debug\net5.0\FlixedStarzProject.Core.pdb
+C:\Users\hp\Desktop\FLIX Prep\FlixedStarzProject\FlixedStarzProject.Core\bin\Debug\net5.0\FlixedStarzProject.Model.dll
+C:\Users\hp\Desktop\FLIX Prep\FlixedStarzProject\FlixedStarzProject.Core\bin\Debug\net5.0\FlixedStarzProject.Model.pdb
+C:\Users\hp\Desktop\FLIX Prep\FlixedStarzProject\FlixedStarzProject.Core\obj\Debug\net5.0\FlixedStarzProject.Core.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\FLIX Prep\FlixedStarzProject\FlixedStarzProject.Core\obj\Debug\net5.0\FlixedStarzProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\FLIX Prep\FlixedStarzProject\FlixedStarzProject.Core\obj\Debug\net5.0\FlixedStarzProject.Core.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\FLIX Prep\FlixedStarzProject\FlixedStarzProject.Core\obj\Debug\net5.0\FlixedStarzProject.Core.AssemblyInfo.cs
+C:\Users\hp\Desktop\FLIX Prep\FlixedStarzProject\FlixedStarzProject.Core\obj\Debug\net5.0\FlixedStarzProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\FLIX Prep\FlixedStarzProject\FlixedStarzProject.Core\obj\Debug\net5.0\FlixedStarzProject.Core.csproj.CopyComplete
+C:\Users\hp\Desktop\FLIX Prep\FlixedStarzProject\FlixedStarzProject.Core\obj\Debug\net5.0\FlixedStarzProject.Core.dll
+C:\Users\hp\Desktop\FLIX Prep\FlixedStarzProject\FlixedStarzProject.Core\obj\Debug\net5.0\ref\FlixedStarzProject.Core.dll
+C:\Users\hp\Desktop\FLIX Prep\FlixedStarzProject\FlixedStarzProject.Core\obj\Debug\net5.0\FlixedStarzProject.Core.pdb

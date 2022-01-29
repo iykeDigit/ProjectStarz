@@ -1,0 +1,37 @@
+﻿@model List<FlixedStarzProject.Model.Data>
+
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div>
+    <h4>STARZ MOVIE DATA</h4>
+    
+    @if (Model != null && Model.Count > 0)
+    {
+        <table class="table table-bordered table-striped table-sm">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Release Year</th>
+                 </tr>
+            </thead>
+            <tbody>
+                
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Title)</td>
+                <td>@Html.DisplayFor(modelItem => item.ReleaseYear)</td>
+               
+            </tr>
+        }
+               
+            </tbody>
+        </table>
+    }
+
+</div>
